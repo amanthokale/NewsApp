@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+.badgee{
+  display: flex;
+justify-content: flex-end;
+position: absolute;
+right: 0;
+}
+#heading{
+  margin-top: 80px;
+}
